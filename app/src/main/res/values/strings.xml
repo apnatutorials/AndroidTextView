@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android TextView</string>
+    <string name="icon_left">Icon at left of text content</string>
+    <string name="icon_right">Icon at right of text content</string>
+    <string name="underline_demo">This is an <u>underline</u>.</string>
+    <string name="autolink_demo">Autolink demo - http://www.apnatutorials.com</string>
+    <string name="data_truncation_demo">Data truncation demo. This is large text. Let\'s see how it looks like</string>
+</resources>
